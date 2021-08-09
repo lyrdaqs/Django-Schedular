@@ -62,7 +62,7 @@ python manage.py runserver
 
 #### api route
 `
-/<str:username>/validate_tasks/
+/<str:username>/validate_tasks/ POST
 `
 
 ## Author
